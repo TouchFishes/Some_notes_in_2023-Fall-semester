@@ -1,5 +1,7 @@
-# Some_notes_in_2023-Fall-semester
-Here are the notes about Quantum mechanics, Modern optics and statistical mechanics made by Sun and his classmates in 2023 Fall semester.
-![Uploading Notes_about_QM_00.png…]()
+# notes of Quantum
+## Content
+![Notes_about_QM_01](https://github.com/user-attachments/assets/cd3a0e3f-2dc1-4e9f-b50d-569e69f59215)
+
 ![Notes_about_QM_01](https://github.com/user-attachments/assets/3ac19dff-3f1d-4098-9354-bafc9d5173e8)
 
+[Click here to download the file](./Notes_about_QM.pdf)
